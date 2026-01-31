@@ -8,14 +8,14 @@ The information collected may include, but is not limited to:
 Device information (such as device model and operating system version)
 Application usage data (such as screens viewed and interactions within the App)
 Anonymous identifiers (such as Firebase installation identifiers)
-This information is collected for the purposes of analytics and improving application performance and user experience.
-We do not collect personally identifiable information such as names, email addresses, phone numbers, or precise location data through the App.
+This information is collected for analytics purposes and to improve application performance and user experience.
+We do not collect personally identifiable information such as names, email addresses, phone numbers, or precise location data.
 Third-Party Services
 The App uses the following third-party services:
 Firebase Analytics
 Google Play Services
-These services may collect and process information in accordance with their respective privacy policies for analytics and core application functionality.
-Firebase Analytics is used exclusively to evaluate App usage and improve service quality. Advertising features are not enabled.
+These services may collect and process information in accordance with their own privacy policies for analytics and core application functionality.
+Firebase Analytics is used exclusively to understand App usage and improve service quality. Advertising features are not enabled.
 Data Sharing
 Information collected through the App is processed by Firebase and Google solely for analytics and application functionality purposes. We do not sell user data and do not share user information with unrelated third parties.
 Data Security
